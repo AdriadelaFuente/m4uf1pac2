@@ -1,0 +1,17 @@
+
+h2 {
+    background-color: rgb(255, 239, 208);
+    text-align: center;
+    padding: 2vh;
+}
+
+main div {
+    text-align: center;
+}
+
+img {
+    width: 45vh;
+    margin: 5vh;
+    border: solid orange 5px;
+    border-radius: 10px;
+}

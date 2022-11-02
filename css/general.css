@@ -1,0 +1,16 @@
+
+h2 {
+    text-align: center;
+    padding: 6vh;
+    background-color: rgb(255, 239, 208);
+}
+
+h3 {
+    margin: 10vh;
+    text-decoration: underline;
+}
+
+article p {
+    text-align: justify;
+    margin: 10vh;
+}

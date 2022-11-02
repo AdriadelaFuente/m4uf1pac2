@@ -1,0 +1,42 @@
+aside {
+    float: right;
+    width: 35%;
+    margin-right: 2vh;
+}
+
+aside img {
+    width: 100%;
+}
+
+article {
+    width: 56%;
+    margin: 3vh;
+    text-align: center;
+    border: solid black 5px;
+    background-image: linear-gradient(340deg,
+            hsl(0deg 0% 66%) 0%,
+            hsl(344deg 0% 68%) 6%,
+            hsl(344deg 0% 71%) 11%,
+            hsl(344deg 0% 73%) 14%,
+            hsl(344deg 0% 76%) 18%,
+            hsl(344deg 0% 79%) 21%,
+            hsl(344deg 0% 81%) 25%,
+            hsl(344deg 0% 84%) 30%,
+            hsl(344deg 0% 87%) 35%,
+            hsl(344deg 0% 89%) 42%,
+            hsl(344deg 0% 92%) 51%,
+            hsl(344deg 0% 95%) 62%,
+            hsl(344deg 0% 97%) 77%,
+            hsl(0deg 0% 100%) 100%);
+}
+
+h2 {
+    text-decoration: underline;
+    margin: 4vh;
+}
+
+article p {
+    margin: 5vh;
+    text-align: justify;
+    line-height: 3em;
+}

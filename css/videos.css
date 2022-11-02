@@ -1,0 +1,23 @@
+
+h2 {
+    background-color: rgb(255, 239, 208);
+    text-align: center;
+    padding: 2vh;
+}
+
+div {
+    text-align: center;
+    padding: 5vh;
+}
+
+iframe {
+    margin: 2vh;
+    border: solid orange 5px;
+    border-radius: 10px;
+}
+
+video {
+    width: 55%;
+    border: solid orange 5px;
+    border-radius: 10px;
+}

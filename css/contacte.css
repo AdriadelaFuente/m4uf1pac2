@@ -1,0 +1,11 @@
+
+h2 {
+    background-color: rgb(255, 239, 208);
+    text-align: center;
+    padding: 2vh;
+}
+
+iframe {
+    width: 100vw;
+    height: 58vh;
+}

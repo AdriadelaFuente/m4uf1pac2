@@ -1,0 +1,82 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Configuración de las fuentes y tamaños de los selctores de texto*/
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+
+/* Configuración header y menú de navegación */
+
+header {
+    background-image: url(../img/banner.png);
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: 15vh;
+    background-position: 2vh;
+    padding: 8vh;
+
+}
+
+header nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    padding: 2vh;
+}
+
+nav a {
+    color: black;
+    border: solid black 2px;
+    border-radius: 5px;
+    padding: 2vh;
+    text-decoration: none;
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav a:hover {
+    color: white;
+    background-color: black;
+}
+
+/* Configuración del footer */
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 5vh;
+    background-color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:2em;
+}
+
+footer p {
+    margin: 1.5vh;
+}
+
+
+footer a:hover {
+    background-color: cyan;
+    text-decoration: underline;
+}
+
+footer a:visited {
+    color: black;
+    background-color: chartreuse;
+}
